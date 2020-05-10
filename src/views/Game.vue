@@ -58,9 +58,6 @@
         <div>
           <img width="20%" :src="getEmoji()" alt="" />
         </div>
-        <el-button @click="playAgain" type="warning">
-          Play Again
-        </el-button>
       </div>
     </div>
   </div>
@@ -93,9 +90,6 @@ export default {
     },
   },
   methods: {
-    playAgain() {
-      this.$router.push('/');
-    },
     getWidthAndHeight() {
       if (this.screenSize < 610) {
         return 100;
