@@ -1,4 +1,4 @@
-# flep-tile
+# Flep Tile
 
 ## Demo
 
