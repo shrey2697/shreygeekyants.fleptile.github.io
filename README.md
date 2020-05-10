@@ -1,5 +1,11 @@
 # FlepTile
 
+## Try Online
+
+```
+https://shreygeekyants.github.io/shreygeekyants.fleptile.github.io/
+```
+
 ## Demo
 
 ![FlepTile Demo](src/demo/fleptile-demo.gif)
