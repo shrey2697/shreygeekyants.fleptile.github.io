@@ -1,6 +1,6 @@
 # FlepTile
 
-## Try FLeptile
+## Try Fleptile
 
 https://shreygeekyants.github.io/shreygeekyants.fleptile.github.io/
 
