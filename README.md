@@ -2,7 +2,7 @@
 
 ## Try Fleptile
 
-https://shreygeekyants.github.io/shreygeekyants.fleptile.github.io/
+https://shrey2697.github.io/shreygeekyants.fleptile.github.io/
 
 ## Demo
 
